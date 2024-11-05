@@ -1,0 +1,3 @@
+Microsoft Scripting Runtime
+
+// VBA-JSON reference: https://github.com/VBA-tools/VBA-JSON

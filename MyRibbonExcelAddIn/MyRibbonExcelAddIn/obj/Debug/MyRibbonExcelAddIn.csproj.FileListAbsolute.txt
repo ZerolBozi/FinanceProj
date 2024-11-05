@@ -1,0 +1,12 @@
+E:\財金資訊系統期末\MyRibbonExcelAddIn\MyRibbonExcelAddIn\bin\Debug\MyRibbonExcelAddIn.dll
+E:\財金資訊系統期末\MyRibbonExcelAddIn\MyRibbonExcelAddIn\bin\Debug\MyRibbonExcelAddIn.pdb
+E:\財金資訊系統期末\MyRibbonExcelAddIn\MyRibbonExcelAddIn\bin\Debug\MyRibbonExcelAddIn.dll.manifest
+E:\財金資訊系統期末\MyRibbonExcelAddIn\MyRibbonExcelAddIn\bin\Debug\MyRibbonExcelAddIn.vsto
+E:\財金資訊系統期末\MyRibbonExcelAddIn\MyRibbonExcelAddIn\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+E:\財金資訊系統期末\MyRibbonExcelAddIn\MyRibbonExcelAddIn\obj\Debug\MyRibbonExcelAddIn.csproj.AssemblyReference.cache
+E:\財金資訊系統期末\MyRibbonExcelAddIn\MyRibbonExcelAddIn\obj\Debug\MyRibbonExcelAddIn.Properties.Resources.resources
+E:\財金資訊系統期末\MyRibbonExcelAddIn\MyRibbonExcelAddIn\obj\Debug\MyRibbonExcelAddIn.csproj.GenerateResource.cache
+E:\財金資訊系統期末\MyRibbonExcelAddIn\MyRibbonExcelAddIn\obj\Debug\MyRibbonExcelAddIn.csproj.CoreCompileInputs.cache
+E:\財金資訊系統期末\MyRibbonExcelAddIn\MyRibbonExcelAddIn\obj\Debug\MyRibbon.8A056B6B.Up2Date
+E:\財金資訊系統期末\MyRibbonExcelAddIn\MyRibbonExcelAddIn\obj\Debug\MyRibbonExcelAddIn.dll
+E:\財金資訊系統期末\MyRibbonExcelAddIn\MyRibbonExcelAddIn\obj\Debug\MyRibbonExcelAddIn.pdb

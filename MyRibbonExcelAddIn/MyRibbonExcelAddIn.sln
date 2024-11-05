@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34723.18
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyRibbonExcelAddIn", "MyRibbonExcelAddIn\MyRibbonExcelAddIn.csproj", "{5018110A-8A97-473F-BB0F-4C99DE392895}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5018110A-8A97-473F-BB0F-4C99DE392895}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5018110A-8A97-473F-BB0F-4C99DE392895}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5018110A-8A97-473F-BB0F-4C99DE392895}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5018110A-8A97-473F-BB0F-4C99DE392895}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2AD2BE76-9086-4A1C-906B-AED4900000BA}
+	EndGlobalSection
+EndGlobal

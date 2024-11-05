@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<customUI xmlns="http://schemas.microsoft.com/office/2009/07/customui" onLoad="Ribbon_Load">
+  <ribbon>
+    <tabs>
+      <tab idMso="TabAddIns" label="加密貨幣">
+        <group id="groupLogin" label="登入幣安">
+          <button id="btnShowLoginForm" label="LoginForm" imageMso="NewTaskRequest2" onAction="Login" visible="true" size="large"/>
+        </group>
+        <group id="groupLogout" label="登出幣安">
+          <button id="btnLogout" label="Logout" imageMso="CancelAcceptTask" onAction="Logout" visible="true" size="large"/>
+        </group>
+        <group id="groupFetch" label="K線資料">
+          <button id="btnShowFetchForm" label="FetchForm" imageMso="FindDialog" onAction="Fetch" visible="true" size="large"/>
+        </group>
+        <group id="groupCalculate" label="計算指標">
+          <button id="btnShowCalculateForm" label="CalculateForm" imageMso="Calculator" onAction="Calculate" visible="true" size="large"/>
+        </group>
+        <group id="groupStart" label="即時報價 / 更新倉位">
+          <button id="btnStart" label="StartRealTimeUpdate" imageMso="ResultsPaneStartFindAndReplace" onAction="StartQuotes" visible="true" size="large"/>
+          <button id="btnStop" label="StopRealTimeUpdate" imageMso="MacroRecorderStop" onAction="StopQuotes" visible="true" size="large"/>
+        </group>
+        <group id="groupTrading" label="交易">
+          <button id="btnTrading" label="TradingForm" imageMso="MicrosoftVisualFoxPro" onAction="Trading" visible="true" size="large"/>
+        </group>
+      </tab>
+    </tabs>
+  </ribbon>
+</customUI>
